@@ -7,3 +7,6 @@ Kalkulator ini digunakan untuk menghitung total diskon yang didapatkan oleh pemb
 - README.md
 - Pseudocode.txt
 - Algoritma.txt
+
+Dikerjakan Oleh :
+- 'Via Safira - BE2876902'
