@@ -6,7 +6,6 @@ Kalkulator ini digunakan untuk menghitung total diskon yang didapatkan oleh pemb
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
-- Algoritma.txt
 
 Dikerjakan Oleh :
 - 'Via Safira - BE2876902'
