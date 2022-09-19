@@ -9,3 +9,8 @@ IF "Total" MORE THAN "1 Juta"
     DISPLAY "Diskon 30%"
     STORE "Harga Akhir" WITH Total" TIMES "0.3"
     Display "Harga Akhir"
+
+ELSE "Total" LESS THAN "1 Juta"
+    DISPLAY "Tidak Diskon"
+    STORE "Harga AKhir" WITH "Total"
+    DISPLAY "Harga Akhir"
